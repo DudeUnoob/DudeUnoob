@@ -1,8 +1,8 @@
 # Profile
 Hey! My name is Dom 
 15 years old, a learning developer and programmer!
-Made a Discord Bot with over 18,000 + users - (https://pgbott.herokuapp.com)
-My own API - (https://api-roast.herokuapp.com)
+Made a Discord Bot with over 18,000 + users - (https://pogbot.up.railway.app)
+My own API - (https://roastsapi.up.railway.app/)
 Portfolio Website (in development) - (https://dom-port.herokuapp.com)
 and more!
 
