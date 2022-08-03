@@ -9,3 +9,5 @@ and more!
 ![Dom K's GitHub stats](https://github-readme-stats.vercel.app/api?username=DudeUnoob&count_private=true&theme=synthwave)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DudeUnoob&theme=dark)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=dudeunoob)
