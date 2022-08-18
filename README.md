@@ -11,3 +11,5 @@ and more!
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DudeUnoob&theme=dark)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=dudeunoob)
+
+![contributions-count](https://media.discordapp.net/attachments/819795062078308352/1009867800501833788/unknown.png)
