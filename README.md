@@ -12,5 +12,5 @@ and more!
 
 ![](https://komarev.com/ghpvc/?username=dudeunoob)
 
-![contributions-count](https://media.discordapp.net/attachments/819795062078308352/1009867800501833788/unknown.png)
-Updated as of 8/18/22
+![contributions-count](https://media.discordapp.net/attachments/895494009273864223/1010960868529426492/unknown.png)
+Updated as of 8/21/22
