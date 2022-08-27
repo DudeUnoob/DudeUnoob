@@ -14,4 +14,4 @@ and more!
 
 ![contributions-count](https://media.discordapp.net/attachments/830502048188858368/1013134136707395624/unknown.png)
 <br />
-Updated as of 8/21/22
+<b>Updated as of 8/21/22</b>
