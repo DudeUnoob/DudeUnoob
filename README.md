@@ -1,9 +1,9 @@
 # Profile
-Hey! My name's is Dom 
+Hey! My name's Dom 
 16 years old, a learning developer and programmer!
 Made a Discord Bot with over 18,000 + users 
-My own API
-Web Development
+My own API,
+Web Development,
 and more!
 
 ![Dom K's GitHub stats](https://github-readme-stats.vercel.app/api?username=DudeUnoob&count_private=true&theme=synthwave)
