@@ -8,7 +8,7 @@ and more!
 
 ![Dom K's GitHub stats](https://github-readme-stats.vercel.app/api?username=DudeUnoob&count_private=true&theme=synthwave)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DudeUnoob&theme=react&border_radius=12&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DudeUnoob&theme=react&border_radius=12&mode=weekly)](https://www.linkedin.com/in/damodar-kamani-a7204123a/)
 
 ![](https://komarev.com/ghpvc/?username=dudeunoob)
 
