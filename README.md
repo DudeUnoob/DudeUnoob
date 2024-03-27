@@ -16,7 +16,7 @@ Currently a Software Developer @ Tree-Plenish, utilizing my skills at fullstack 
 
 
 <br />
-<b>Updated as of 4/8/23</b>
+
 
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
