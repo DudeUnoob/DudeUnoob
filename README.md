@@ -64,3 +64,8 @@ Currently a Software Developer @ Tree-Plenish, utilizing my skills at fullstack 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+<br />
+<h1>The pinned repositories are the current projects I've been working on recently 📌</h1>
