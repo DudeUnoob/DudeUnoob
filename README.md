@@ -1,9 +1,9 @@
 # Profile
 Hey! My name's Dom 
-17 years old, a learning developer and programmer!
+, a learning developer and programmer!
 Made a Discord Bot with over 18,000 + users 
 My own API,
-Web Development,
+Web Development, Machine Learning,
 and more!
 
 Currently a Software Developer @ Tree-Plenish, utilizing my skills at fullstack development
