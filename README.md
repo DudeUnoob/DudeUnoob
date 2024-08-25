@@ -6,7 +6,7 @@ My own API,
 Web Development, Machine Learning,
 and more!
 
-Currently a Software Developer @ Tree-Plenish, utilizing my skills at fullstack development
+Currently a Software Engineer Intern @ Frigate, prev Software Dev @ Tree-Plenish
 
 
 
