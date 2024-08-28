@@ -14,7 +14,7 @@ Currently a Software Engineer Intern @ Frigate, prev Software Dev @ Tree-Plenish
 
 ![](https://komarev.com/ghpvc/?username=dudeunoob)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DudeUnoob/langs)](https://githubtrends.io)
+[[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DudeUnoob/langs)](https://githubtrends.io)](https://api.githubtrends.io/user/svg/DudeUnoob/langs?time_range=all_time&include_private=True&theme=dark)
 <br />
 
 
