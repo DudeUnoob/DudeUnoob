@@ -6,7 +6,7 @@ My own API,
 Web Development, Machine Learning,
 and more!
 
-Currently a Software Engineer Intern @ Frigate, prev Software Dev @ Tree-Plenish
+Currently a Tech Product Lead @ Tree-Plenish, prev Software Engineer @ Frigate
 
 
 
