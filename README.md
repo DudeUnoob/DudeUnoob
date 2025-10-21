@@ -1,5 +1,5 @@
 # Profile
-Hey! My name's Dom 
+Hey! My name's Damodar 
 , a learning developer and programmer!
 Made a Discord Bot with over 18,000 + users 
 My own API,
