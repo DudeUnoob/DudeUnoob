@@ -2,9 +2,14 @@
 Hey, I'm Damodar, a learning developer and programmer!
 
 
-Currently a Software Lead @ Tree-Plenish, creating the infrastructure for community sustainability.
+Currently a Software Lead @ Tree-Plenish, creating the infrastructure for community 
+sustainability.
+
+<br />
 Recently been big in Web Design/Development, Applied AI/ML, and Agentic software!
 
+
+- Incoming @ ![download (1)](https://github.com/user-attachments/assets/2e8fb6bc-c863-4d9b-95da-67954bba6483)
 - Raised 50K Pre-seed round @ 1M valuation via Afore.VC
 - Prev. AI in Healthcare Research @ Stanford
 - Longhorn devs, hook'em hacks, and more
