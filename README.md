@@ -6,6 +6,7 @@ Currently a Software Lead @ Tree-Plenish, creating the infrastructure for commun
 Recently been big in Web Design/Development, Applied AI/ML, and Agentic software!
 
 - Raised 50K Pre-seed round @ 1M valuation via Afore.VC
+- Prev. AI in Healthcare Research @ Stanford
 - Longhorn devs, hook'em hacks, and more
 
 
