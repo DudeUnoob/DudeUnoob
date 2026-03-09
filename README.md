@@ -8,6 +8,8 @@ sustainability.
 <br />
 Recently been big in Web Design/Development, Applied AI/ML, and Agentic software!
 
+<br />
+
 - Incoming @ **Amazon**, Internal AI & Security 
 - Raised **50K Pre-seed** round @ **1M valuation** via Afore.VC
 - Prev. AI in Healthcare Research @ Stanford
