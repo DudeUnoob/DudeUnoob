@@ -1,8 +1,8 @@
 # Profile
-Hey, I'm Damodar, a learning developer and programmer!
+Hey, I'm Damodar, a dev and programmer.
 
 
-Currently a Software Lead @ Tree-Plenish, creating the infrastructure for community 
+Current Software Lead @ Tree-Plenish, creating infrastructure for environmental events
 sustainability.
 
 <br />
