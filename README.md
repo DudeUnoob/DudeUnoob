@@ -2,11 +2,10 @@
 Hey, I'm Damodar, a dev and programmer.
 
 
-Current Software Lead @ Tree-Plenish, creating infrastructure for environmental events
-sustainability.
+Current Lead Software Dev @ Tree-Plenish, creating infra at scale for sustainability and reforestation initiatives.
 
 <br />
-Recently been big in Web Design/Development, Applied AI/ML, and Agentic software!
+Big in Applied AI/ML with Deep Learning, Agentic software, Startups, and Web Design/Development!
 
 <br />
 <br />
@@ -27,4 +26,4 @@ Recently been big in Web Design/Development, Applied AI/ML, and Agentic software
 
 
 <br />
-<h1>The pinned repositories are the current projects I've been working on recently 📌</h1>
+<h2>The pinned repositories are the current things I've been tinkering on  📌</h2>
