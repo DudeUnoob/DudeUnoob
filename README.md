@@ -2,7 +2,7 @@
 Hey, I'm Damodar, a dev and programmer.
 
 
-Current Lead Software Dev @ Tree-Plenish, creating infra at scale for sustainability and reforestation initiatives.
+Current Software Lead @ Tree-Plenish, creating infra at scale for sustainability and reforestation initiatives.
 
 <br />
 Big in Applied AI/ML with Deep Learning, Agentic software, Startups, and Web Design/Development!
