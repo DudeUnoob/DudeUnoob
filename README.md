@@ -10,7 +10,7 @@ Big in Applied AI/ML with Deep Learning, Agentic software, Startups, and Web Des
 <br />
 <br />
 
-- Incoming @ **Amazon**, Internal AI & Security 
+- Software @ **Amazon**, Internal AI & Security 
 - Raised **150K Pre-seed** round @ **1M valuation** via Afore.VC
 - Prev. AI in Healthcare Research @ Stanford
 - **3rd place @ 11k APP-A-THON, top 300/10000 semi-finalist @ AWS AIdeas**, **J.P Morgan & Chase - Code For Good**
