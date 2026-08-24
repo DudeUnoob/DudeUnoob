@@ -10,8 +10,8 @@ Big in Applied AI/ML with Deep Learning, Agentic software, Startups, and Web Des
 <br />
 <br />
 
-- Software @ **Amazon**, Internal AI & Security 
 - Raised **150K Pre-seed** round @ **1M valuation** via Afore.VC
+- ML Research @ IRP Lab - UT Austin on database infra
 - Prev. AI in Healthcare Research @ Stanford
 - **3rd place @ 11k APP-A-THON, top 300/10000 semi-finalist @ AWS AIdeas**, **J.P Morgan & Chase - Code For Good**
 - Longhorn devs, hook'em hacks, and more
