@@ -10,6 +10,7 @@ Big in Applied AI/ML with Deep Learning, Agentic software, Startups, and Web Des
 <br />
 <br />
 
+- Incoming @ Google
 - Raised **150K Pre-seed** round @ **1M valuation** via Afore.VC
 - ML Research @ IRP Lab - UT Austin on database infra
 - Prev. AI in Healthcare Research @ Stanford
