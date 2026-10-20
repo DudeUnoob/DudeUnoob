@@ -5,13 +5,13 @@ Hey, I'm Damodar, a dev and programmer.
 Current Software Lead @ Tree-Plenish, creating infra at scale for sustainability and reforestation initiatives.
 
 <br />
-Big in Applied AI/ML with Deep Learning, Agentic software, Startups, and Web Design/Development!
+Big in Applied AI/ML with Deep Learning, Agentic software, Startups, and more!
 
 <br />
 <br />
 
-- Incoming @ Google
-- Raised **150K Pre-seed** round @ **1M valuation** via Afore.VC
+- Incoming @ Google, [Nuro](https://nuro.ai)
+- Raised **50K Pre-seed** round @ **1M valuation** via Afore.VC
 - ML Research @ IRP Lab - UT Austin on database infra
 - Prev. AI in Healthcare Research @ Stanford
 - **3rd place @ 11k APP-A-THON, top 300/10000 semi-finalist @ AWS AIdeas**, **J.P Morgan & Chase - Code For Good**
