@@ -10,7 +10,7 @@ Big in Applied AI/ML with Deep Learning, Agentic software, Startups, and more!
 <br />
 <br />
 
-- Incoming @ Google, [Nuro](https://nuro.ai)
+- Incoming @ Google, Stripe, [Nuro](https://nuro.ai)
 - Raised **50K Pre-seed** round @ **1M valuation** via Afore.VC
 - ML Research @ IRP Lab - UT Austin on database infra
 - Prev. AI in Healthcare Research @ Stanford
